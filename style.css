@@ -1,0 +1,17 @@
+.header{
+    display:flex;
+   background-color:blue;
+
+}
+.layout{
+    display:flex;
+    background-color: aquamarine;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+h1{
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+    background-color:royalblue;
+}
